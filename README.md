@@ -4,13 +4,13 @@ A responsive tabs demo at two different screen size namely tablet and phone.
 
 Live Demo: [https://apgapg.github.io/flutter_responsive_tabs/](https://apgapg.github.io/flutter_responsive_tabs/)
 
-<img src="https://raw.githubusercontent.com/apgapg/flutter_responsive_tabs/master/res/app.gif"  height = "500" alt="PieChart">
+<img src="https://raw.githubusercontent.com/apgapg/flutter_responsive_tabs/master/res/app.gif" alt="flutter_responsive_tabs">
 
 ## On Tablet
-<img src="https://raw.githubusercontent.com/apgapg/flutter_responsive_tabs/master/res/s1.png"  height = "400" alt="PieChart">
+<img src="https://raw.githubusercontent.com/apgapg/flutter_responsive_tabs/master/res/s1.png"  height = "400" alt="flutter_responsive_tabs">
 
 ## On Phone
-<img src="https://raw.githubusercontent.com/apgapg/flutter_responsive_tabs/master/res/s2.png"  height = "400" alt="PieChart">
+<img src="https://raw.githubusercontent.com/apgapg/flutter_responsive_tabs/master/res/s2.png"  height = "400" alt="flutter_responsive_tabs">
 
 # ⭐ My Flutter Packages
 - [json_table](https://pub.dartlang.org/packages/json_table)  [![GitHub stars](https://img.shields.io/github/stars/apgapg/json_table.svg?style=social)](https://github.com/apgapg/json_table)  Create Flutter Json Table from json map directly.
