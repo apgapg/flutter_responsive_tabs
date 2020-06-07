@@ -4,6 +4,8 @@ A responsive tabs demo at two different screen size namely tablet and phone.
 
 Live Demo: [https://apgapg.github.io/flutter_responsive_tabs/](https://apgapg.github.io/flutter_responsive_tabs/)
 
+View Full Article: [https://medium.com/@ayushpguptaapg/flutter-responsive-design-956c6e9a6d1b](https://medium.com/@ayushpguptaapg/flutter-responsive-design-956c6e9a6d1b)
+
 <img src="https://raw.githubusercontent.com/apgapg/flutter_responsive_tabs/master/res/app.gif" alt="flutter_responsive_tabs">
 
 ## On Tablet
